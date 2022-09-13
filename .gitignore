@@ -1,0 +1,11 @@
+# Editor directories and files
+.idea
+.vscode/*
+
+env
+db.sqlite3
+
+
+__pycache__
+*.pyc
+
